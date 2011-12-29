@@ -1,0 +1,3 @@
+[submodule "jquery-require-sample/webapp/scripts/expect"]
+	path = jquery-require-sample/webapp/scripts/expect
+	url = https://github.com/LearnBoost/expect.js.git
